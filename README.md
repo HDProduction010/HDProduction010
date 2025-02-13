@@ -30,7 +30,7 @@ College kid just making it work🌟
 ### 🎯 Active Projects  
 - **Disutils Team** – Some awesome people making Discord better [GitHub](https://github.com/disutils/disutils)  
 - **Unnamed Project** - Join the unnamed today! [theunnamedcorp.com](https://theunnamedcorp.com/)
-<details>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
