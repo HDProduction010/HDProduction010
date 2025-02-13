@@ -22,7 +22,7 @@
 
 ## 🚀 Quick Overview
 
-> College kid just making it work🌟
+College kid just making it work🌟
 
 <details>
 <summary>📈 Current Projects & Milestones</summary>
