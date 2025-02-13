@@ -28,4 +28,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdproduction010&show_icons=true&locale=en&theme=dark" alt="hdproduction010" /></p>
 
 <p><img align="right" src="https://streak-stats.demolab.com?user=HDProduction010&theme=dark)](https://git.io/streak-stats)"/></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HDProduction010" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HDProduction010&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
