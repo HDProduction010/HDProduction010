@@ -14,7 +14,7 @@
 
   <div style="margin: 20px 0;">
     <a href="https://discord.com/users/418941954252996609" target="_blank">
-      <img width="50%" src="https://lanyard.cnrad.dev/api/418941954252996609?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
+      <img width="50%" src="https://lanyard.cnrad.dev/api/715406424947294290?bg=1f1f1f&borderRadius=5px" alt="Discord Status">
     </a>
     <br><br>
     <a href="https://wakatime.com/@HDProduction010" target="_blank">
