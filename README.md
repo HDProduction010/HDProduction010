@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hdproduction010&show_icons=true&locale=en&theme=dark" alt="hdproduction010" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=HDProduction010&theme=dark)](https://git.io/streak-stats)" alt="hdproduction010" /></p>
+<p><img align="right" src="https://streak-stats.demolab.com?user=HDProduction010&theme=dark)](https://git.io/streak-stats)"/></p>
