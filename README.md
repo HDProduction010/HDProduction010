@@ -4,11 +4,8 @@
 
 <div align="center">
   
-  [![guns.lol](https://img.shields.io/badge/guns.lol-946ca4?style=for-the-badge&logoColor=white)](https://guns.lol/HDProduction010)
-  [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
-  [![Bots](https://img.shields.io/badge/Our_Bots-1daa7e?style=for-the-badge&logo=robotframework&logoColor=white)](https://disutils.com/bots)
-  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://disutils.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/disutils)
+  [![Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UPrgdaETTt)
+  [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://realhd.dev)
   
   <img src="https://komarev.com/ghpvc/?username=HDProduction010s&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
