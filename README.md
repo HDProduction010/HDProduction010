@@ -88,7 +88,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:HDProduction010@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/28RuT8WsKT)
+[![Discord](https://img.shields.io/badge/Discord_Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/UPrgdaETTt)
 
 </div>
 
