@@ -20,15 +20,7 @@
   </div>
 </div>
 
-## 🚀 Quick Overview
 
-> College kid just making it work🌟
-
-📈 Current Projects & Milestones
-
-### 🎯 Active Projects  
-- **Disutils Team** – Some awesome people making Discord better [GitHub](https://github.com/disutils/disutils)  
-- **Unnamed Project** - Join the unnamed today! [theunnamedcorp.com](https://theunnamedcorp.com/)
 
 ## 🛠️ Tech Stack & Tools
 
